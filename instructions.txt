@@ -1,42 +1,76 @@
-7 steps to a great Website.
+***** 7 STEPS OF A GREAT WEBSITE ****** 
 
-1.Define
-  * Who the website is for
-  * What the website is for. Define business and user goals.
-  * Target audience.
+  1.Define
+    * Who the website is for
+    * What the website is for. Define business and user goals.
+    * Target audience.
 
-2.Plan
-  * Plan and gather website content, images, videos, etc. will come from client.
-  * Plan out the sitemap. What pages the site needs. and how they related.
-  * Based on the content, plan what sections each page needs. 
-  * Define the website personality.
+  2.Plan
+    * Plan and gather website content, images, videos, etc. will come from client.
+    * Plan out the sitemap. What pages the site needs. and how they related.
+    * Based on the content, plan what sections each page needs. 
+    * Define the website personality.
 
-3.Sketch
-  * Think about what components you need, and how to use them in Layout patterns.
-  * Get ideas out of head, sketch them with pen and paper, or figma
-  * This is really iterative process.
-  * Don't make it perfect. 
+  3.Sketch
+    * Think about what components you need, and how to use them in Layout patterns.
+    * Get ideas out of head, sketch them with pen and paper, or figma
+    * This is really iterative process.
+    * Don't make it perfect. 
 
-4.Design and Build 
-  * Design and Build the website with HTML and CSS.
-  * You have the layout and components.
-  * Create design based on selected personality and design guidelines take inspiration.
-  * Use client's branding, colors, typography, icons etc.
+  4.Design and Build 
+    * Design and Build the website with HTML and CSS.
+    * You have the layout and components.
+    * Create design based on selected personality and design guidelines take inspiration.
+    * Use client's branding, colors, typography, icons etc.
 
-5.Test and Optimize
-  * Make sure website works all major browsers.
-  * Test website on actual mobile devices.
-  * Optimize all images.
-  * Fix simple accessibility problems.
-  * Run the Lighthouse performance test.
-  * Think about SEO 
+  5.Test and Optimize
+    * Make sure website works all major browsers.
+    * Test website on actual mobile devices.
+    * Optimize all images.
+    * Fix simple accessibility problems.
+    * Run the Lighthouse performance test.
+    * Think about SEO 
 
-6.Lunch the Masterpiece.
-  * Share your website to a hosting platform.
+  6.Lunch the Masterpiece.
+    * Share your website to a hosting platform.
 
-7.Maintain and Update
-  * Keep the website updated.
-  * Install analytics software.
+  7.Maintain and Update
+    * Keep the website updated.
+    * Install analytics software.
+
+
+
+***** RESPONSIVE WEB DESIGN *****
+
+  * Responsive design is a technique to make a webpage adjust its layout and visual
+    style to any possible screen size.
+  * In practice, it means that responsive design makes website useable on all devices.
+  * Its a set of practices, not a separate technology.
+  * Desktop-first Vs Mobile-first Development.
+  * Responsive design has four ingredients.
+
+
+  1.Fluid Layout
+    * To allow webpage to adapt to the current viewport
+    * Use % or vh, vw units instead of px for elements that should adapt to viewport.
+    * Use max-width instead of width
+
+  2.Responsive Units
+    * Use rem units instead of px for most lengths.
+    * To make it easy to scale the entire layout down or up automatically.
+    * Set 1rem to 10px for easy calculations.
+
+  3.Flexible Images  
+    * By default, images don't scale automatically as we change the viewport.
+    * Always use % for image dimensions, together with max-width property.
+
+  4.Media Queries
+    * To Change CSS styles on certain viewport widths.
+
+
+
+
+
 
 
 
