@@ -1,0 +1,46 @@
+7 steps to a great Website.
+
+1.Define
+  * Who the website is for
+  * What the website is for. Define business and user goals.
+  * Target audience.
+
+2.Plan
+  * Plan and gather website content, images, videos, etc. will come from client.
+  * Plan out the sitemap. What pages the site needs. and how they related.
+  * Based on the content, plan what sections each page needs. 
+  * Define the website personality.
+
+3.Sketch
+  * Think about what components you need, and how to use them in Layout patterns.
+  * Get ideas out of head, sketch them with pen and paper, or figma
+  * This is really iterative process.
+  * Don't make it perfect. 
+
+4.Design and Build 
+  * Design and Build the website with HTML and CSS.
+  * You have the layout and components.
+  * Create design based on selected personality and design guidelines take inspiration.
+  * Use client's branding, colors, typography, icons etc.
+
+5.Test and Optimize
+  * Make sure website works all major browsers.
+  * Test website on actual mobile devices.
+  * Optimize all images.
+  * Fix simple accessibility problems.
+  * Run the Lighthouse performance test.
+  * Think about SEO 
+
+6.Lunch the Masterpiece.
+  * Share your website to a hosting platform.
+
+7.Maintain and Update
+  * Keep the website updated.
+  * Install analytics software.
+
+
+
+
+
+
+
